@@ -1,0 +1,14 @@
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\bin\Debug\net10.0\ScreedSound.exe
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\bin\Debug\net10.0\ScreedSound.deps.json
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\bin\Debug\net10.0\ScreedSound.runtimeconfig.json
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\bin\Debug\net10.0\ScreedSound.dll
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\bin\Debug\net10.0\ScreedSound.pdb
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ScreedSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ScreedSound.AssemblyInfoInputs.cache
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ScreedSound.AssemblyInfo.cs
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ScreedSound.csproj.CoreCompileInputs.cache
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ScreedSound.dll
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\refint\ScreedSound.dll
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ScreedSound.pdb
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ScreedSound.genruntimeconfig.cache
+C:\Users\bruni\source\repos\ScreedSound\ScreedSound\obj\Debug\net10.0\ref\ScreedSound.dll
